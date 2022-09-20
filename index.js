@@ -1,1 +1,2 @@
-import toggleButton from './js/toggle.js';
+import { toggleButton } from './js/toggle.js';
+toggleButton();
